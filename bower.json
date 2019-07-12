@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap4c-spinners",
+  "version": "1.0.2",
+  "authors": [
+    "wolxXx <devops@wolxXx.de>"
+  ],
+  "description": "js tools",
+  "main": "chelsea.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "js",
+    "vanilla js",
+    "javascript",
+    "vanilla javascript",
+    "tools"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/haubek/bootstrap4c-spinners",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
